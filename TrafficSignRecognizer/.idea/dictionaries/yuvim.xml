@@ -4,6 +4,7 @@
       <w>barplot</w>
       <w>datadir</w>
       <w>dataset</w>
+      <w>pred</w>
       <w>uint</w>
     </words>
   </dictionary>
